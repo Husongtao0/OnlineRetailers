@@ -1,0 +1,15 @@
+com\pinyougou\sellergoods\service\FreightTemplateService.class
+com\pinyougou\sellergoods\service\PayLogService.class
+com\pinyougou\sellergoods\service\OrderItemService.class
+com\pinyougou\sellergoods\service\GoodsDescService.class
+com\pinyougou\sellergoods\service\ItemService.class
+com\pinyougou\sellergoods\service\SpecificationService.class
+com\pinyougou\sellergoods\service\SpecificationOptionService.class
+com\pinyougou\sellergoods\service\GoodsService.class
+com\pinyougou\sellergoods\service\TypeTemplateService.class
+com\pinyougou\sellergoods\service\SeckillOrderService.class
+com\pinyougou\sellergoods\service\SeckillGoodsService.class
+com\pinyougou\sellergoods\service\ItemCatService.class
+com\pinyougou\sellergoods\service\BrandService.class
+com\pinyougou\App.class
+com\pinyougou\sellergoods\service\SellerService.class

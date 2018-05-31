@@ -1,0 +1,105 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 4,
+    "params": {
+      "indent": "true",
+      "q": "*:*",
+      "group.field": "item_category",
+      "group": "true",
+      "wt": "json"
+    }
+  },
+  "grouped": {
+    "item_category": {
+      "matches": 960,
+      "groups": [
+        {
+          "groupValue": "手机",
+          "doclist": {
+            "numFound": 740,
+            "start": 0,
+            "docs": [
+              {
+                "id": "536563",
+                "item_title": "new2 - 阿尔卡特 (OT-927) 炭黑 联通3G手机 双卡双待",
+                "item_price": 299000.0,
+                "item_image": "http://img12.360buyimg.com/n1/s450x450_jfs/t3034/299/2060854617/119711/577e85cb/57d11b6cN1fd1194d.jpg",
+                "item_goodsid": 1,
+                "item_category": "手机",
+                "item_brand": "阿尔卡特",
+                "item_seller": "阿尔卡特",
+                "item_spec_网络": "联通3G",
+                "item_spec_机身内存": "16G",
+                "_version_": 1599681727304826880
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "平板电视",
+          "doclist": {
+            "numFound": 207,
+            "start": 0,
+            "docs": [
+              {
+                "id": "816753",
+                "item_title": "夏普（SHARP）LCD-46DS40A 46英寸 日本原装液晶面板 智能全高清液晶电视",
+                "item_price": 3799.0,
+                "item_image": "http://img11.360buyimg.com/n1/jfs/t3514/213/2256693815/416437/1bbb4c23/584cfbbfN25d205dd.jpg",
+                "item_goodsid": 1,
+                "item_category": "平板电视",
+                "item_brand": "夏普",
+                "item_seller": "夏普",
+                "item_spec_电视屏幕尺寸": "46英寸",
+                "_version_": 1599681727314264064
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "笔记本",
+          "doclist": {
+            "numFound": 12,
+            "start": 0,
+            "docs": [
+              {
+                "id": "1369295",
+                "item_title": "黑马手机移动3G 16G",
+                "item_price": 10.0,
+                "item_image": "http://192.168.25.133/group1/M00/00/04/wKgZhVrkSNiAAFYyAAGcFHQ7Ggg410.jpg",
+                "item_goodsid": 149187842867972,
+                "item_category": "笔记本",
+                "item_brand": "联想",
+                "item_seller": "千度商店",
+                "item_spec_网络": "移动3G",
+                "item_spec_机身内存": "16G",
+                "_version_": 1599681727674974211
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "电风扇",
+          "doclist": {
+            "numFound": 1,
+            "start": 0,
+            "docs": [
+              {
+                "id": "1369307",
+                "item_title": "黑马电风扇",
+                "item_price": 123.0,
+                "item_image": "http://192.168.25.133/group1/M00/00/04/wKgZhVrkS-WAGXXyAAJQksgqu3o373.jpg",
+                "item_goodsid": 149187842867975,
+                "item_category": "电风扇",
+                "item_brand": "锤子",
+                "item_seller": "千度商店",
+                "_version_": 1599681727677071360
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
